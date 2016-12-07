@@ -1,0 +1,12 @@
+[OSEv3:children]
+masters
+nodes
+
+[OSEv3:vars]
+ansible_user=root
+ansible_ssh_private_key_file=/home/CONF_USER/workspace/Launch-Environment-Flexy/private/config/keys/libra.pem
+
+[masters]
+
+[nodes]
+
